@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+uvicorn[standard]
+opencv-python
+python-multipart
+pydantic
+uuid
